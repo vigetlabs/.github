@@ -25,7 +25,7 @@ If you're interested in learning more about us, check out our open-source code b
 * [Come work with us][careers]
 * [Hire us][contact]
 
-[team]: https://www.viget.com/about/?team=engineering#:~:text=Our%articles0Team
+[team]: https://www.viget.com/about/?team=engineering#:~:text=Our%20Team
 [articles]: https://www.viget.com/articles/category/code/
 [contact]: https://www.viget.com/contact/
 [careers]: https://www.viget.com/careers/
