@@ -1,6 +1,6 @@
 # Hi, We're the Viget Engineering Team
 
-We develop digital products and content experiences across a wide variety of clients, from early-stage startup to established enterprises and well-known nonprofits. We work collaboratively with clients and cross-functional teams, combining speed and quality and providing the most value possible for our clients and their users. We leverage a mix of proven and upcoming technology, and focus on five core engineering disciplines:
+We develop digital products and content experiences across a wide variety of clients, from early-stage startups to established enterprises and well-known nonprofits. We work collaboratively with clients and cross-functional teams, combining speed and quality and providing the most value possible for our clients and their users. We leverage a mix of proven and upcoming technology, and focus on five core engineering disciplines:
 
 * **Application Development:** custom apps written in [Ruby][], [Python][], and [Elixir][]
 * **JavaScript Development:** interactive user interfaces written with [React][]
