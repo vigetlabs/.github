@@ -20,8 +20,8 @@ We develop digital products and content experiences across a wide variety of cli
 
 ### Tools and tech we're exploring:
 
-- **Agentic development:** with [Claude Code][claudecode], [Cursor][cursor], [Codex][codex] and more!
-- **AI powered integrations:** with [Meilisearch][meilisearch], [n8n][n8n] and [FastMCP][fastmcp]
+- **Agentic development:** with [Claude Code][claudecode], [Cursor][cursor], [Codex][codex], [Pi][pi] and more!
+- **AI powered integrations:** with tools like [Meilisearch][meilisearch], [FastMCP][fastmcp], [Pydantic AI][pydanticai] and [Amazon Bedrock][bedrock]
 
 [meilisearch]: https://www.meilisearch.com
 [claudecode]: https://www.claude.com/product/claude-code
@@ -29,6 +29,9 @@ We develop digital products and content experiences across a wide variety of cli
 [codex]: https://www.openai.com/codex/
 [n8n]: https://n8n.io/
 [fastmcp]: https://github.com/punkpeye/fastmcp
+[pi]: https://pi.dev/
+[pydanticai]: https://github.com/pydantic/pydantic-ai
+[bedrock]: https://aws.amazon.com/bedrock/
 
 ### Recent articles:
 
